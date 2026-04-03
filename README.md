@@ -1,4 +1,12 @@
-#  Business Intelligence & Executive Dashboard Showcase
+# Project Intent: Aesthetic Over Analytics
+This repository is a gallery of **visual design and UI experimentation**. 
+
+## Business Intelligence & Executive Dashboard Showcase
+> **Disclaimer:** The visualizations found here are optimized for **aesthetic beauty, motion, and layout**. While they may use real datasets, they are not intended to serve as a tool for deep data analysis or business intelligence. 
+
+**Focus areas:**
+* Color theory and typography in dashboards
+* Interactive UI components
 **Portfolio of High-Impact Visualizations in Tableau & Power BI**
 
 ---
@@ -13,10 +21,10 @@ This repository demonstrates my ability to transform raw data into "Executive-Re
 
 This dashboard tracks 60 years of financial growth, focusing on dividend reliability and price volatility.
 
-### 🖼️ Visual Preview
+### Visual Preview
 ![Coca-Cola Stock Insight](./Coca_Cola_Stock_Insight.png)
 
-### 💡 Visual Highlights:
+### Visual Highlights:
 * **The "Dual-Perspective" Yield Chart:** I used a split-view to compare Dividends Paid vs. Yield % over time, making it easy to spot long-term stability.
 * **Modern UI Layout:** Used a custom "Can-Red" color palette to maintain brand identity while ensuring high data readability.
 * **Trend Analysis:** Integrated a scatter plot to analyze Open vs. Close daily correlations.
@@ -41,7 +49,5 @@ A comprehensive look at a $2.26M retail portfolio, optimized for regional manage
 ##  Design & Technical Expertise
 | Focus Area | Skill Description |
 | :--- | :--- |
-| **Tooling** | Advanced proficiency in **Power BI DAX** and **Tableau Parameters**. |
+| **Tooling** | Proficiency in **Power BI** and **Tableau**. |
 | **UI/UX for BI** | Custom background design, consistent color-coding, and intuitive slicer placement. |
-| **Data Storytelling** | Moving from descriptive ("What happened?") to diagnostic ("Why did it happen?"). |
-| **Cleaning** | Expert use of **Excel Power Query** for data transformation prior to visualization. |
