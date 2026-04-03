@@ -1,4 +1,4 @@
-# Business Intelligence & Executive Dashboard Showcase | Aesthetic Over Analytics
+# Executive Dashboard Showcase | Aesthetic Over Analytics
 This repository is a gallery of **visual design and UI experimentation**. 
 
 > **Disclaimer:** The visualizations found here are optimized for **aesthetic beauty, motion, and layout**. While they may use real datasets, they are not intended to serve as a tool for deep data analysis or business intelligence. 
